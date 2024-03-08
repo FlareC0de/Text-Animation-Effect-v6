@@ -9,7 +9,7 @@
 body{
     display: flex;
     align-items: center;
-    min-height: 100vh;
+    min-height: 101vh;
     background: #262626;
     background-image: linear-gradient(to right, #333 1px, transparent 1px), linear-gradient(to bottom, #333 1px, transparent 1px);
     background-size: 4vh 4vh;
